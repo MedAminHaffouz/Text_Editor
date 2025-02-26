@@ -1,2 +1,1 @@
-hello world
-GL2
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum viverra turpis, sed tincidunt libero convallis vel. Nunc tincidunt ut odio sit amet finibus. Duis accumsan at nisl non ornare. Cras iaculis, lectus id interdum pretium, eros est fermentum odio, quis fermentum orci ante eget ipsum. Suspendisse felis velit, mattis non erat in, luctus vulputate arcu. Nunc id molestie ante. Ut placerat urna ut turpis porttitor blandit. Pellentesque in neque sollicitudin, lobortis ipsum vitae, vehicula felis. Phasellus a metus non diam ullamcorper sagittis et id nisl. Pellentesque vel mauris eget quam congue luctus.
